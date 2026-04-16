@@ -45,7 +45,7 @@ To compile the executable that demonstrates the functionality of the BF library,
 
 Then execute it with:
 
-``./build/bf_main```
+```./build/bf_main```
 
 ### Heap File example
 
