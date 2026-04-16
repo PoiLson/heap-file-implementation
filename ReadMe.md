@@ -65,4 +65,4 @@ This target removes any existing ```data.db``` file, compiles the test program, 
 
 ### Note
 
-The same workflow applies to the available executables: first compile them through the corresponding ```make``` target, then run the generated executable from the ```build/```, [`build`](build), directory, if execution is not already included in the target.
+The same workflow applies to the available executables: first compile them through the corresponding ```make``` target, then run the generated executable from the [`build`](build) directory, if execution is not already included in the target.
