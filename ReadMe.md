@@ -32,7 +32,7 @@ The following core functions are implemented:
 - `HP_CloseFile` – closes the file and releases resources
 - `HP_InsertEntry` – inserts a record into the file
 - `HP_GetAllEntries` – retrieves all records matching a given id
-- 
+
 ## Usage
 
 The project includes multiple [`Makefile`](Makefile) targets for compiling and running the available examples.
